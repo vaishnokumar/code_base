@@ -10,4 +10,9 @@ I learned
 I learned 
 1. conditional probability
 2. bayes theorem
-3. two conditional possibility 
+3. two conditional possibility
+
+### 2024 11th Feb
+I learned
+1. random variable property
+2. independent and dependent variable
