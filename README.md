@@ -16,3 +16,8 @@ I learned
 I learned
 1. random variable property
 2. independent and dependent variable
+
+### 2024 12th Feb
+I learned 
+1. independent random variable 
+2. dependent random variable
