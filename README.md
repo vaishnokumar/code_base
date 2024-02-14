@@ -1,5 +1,5 @@
 # code_base
- logs of code base change daily
+ logs of code base change daily and daily wise journal 
 
 ### 2024 7th Feb
 I learned
