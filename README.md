@@ -21,3 +21,4 @@ I learned
 I learned 
 1. independent random variable 
 2. dependent random variable
+3. measure of central tendency and data dispersion
