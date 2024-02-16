@@ -22,3 +22,8 @@ I learned
 1. independent random variable 
 2. dependent random variable
 3. measure of central tendency and data dispersion
+
+### 2024 16th Feb
+I learned 
+1. skewness and kurtosis
+2. normal distribution
